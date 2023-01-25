@@ -14,7 +14,7 @@
           wiedzy. Doradztwo społeczne i zawodowe ze specjalizacją - Doradca
           Zawodowy, Specjalista ds. Personalnych, Rekrutacji, Zarządzania
           Talentami był kierunkiem studiów, który dopełnił moje naturalne
-          umiejętności. Uzupełniłam i aktualizuję własną wiedzę podczas szkoleń
+          umiejętności. Uzupełniam i aktualizuję własną wiedzę podczas szkoleń
           takich jak: „Zintegrowany System Kwalifikacji” - IBE Instytut Badań
           Edukacyjnych Warszawa, „Podstawy diagnostyki w poradnictwie
           edukacyjno-zawodowym” - Ośrodek Rozwoju Edukacji Warszawa, „Praca z
@@ -50,6 +50,7 @@
         </p>
       </div>
     </div>
+    <div class="row"></div>
     <div class="row">
       <div class="block-text-full">
         <p class="title">CO MNIE WYRÓŻNIA...</p>

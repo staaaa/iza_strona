@@ -14,7 +14,7 @@
         <p class="justify">
           Mam na Imię Izabela i pragnę Was powitać na stronie
           <span class="bold">„Rozmawianie w Vanie”</span>. Przychodzę do Was z
-          ofertą wsparcia, poszukiwania Waszej drogi zawodowej, edukacyjnej,
+          ofertą wsparcia w poszukiwaniu Waszej drogi zawodowej, edukacyjnej,
           życiowej. Jeśli szukacie zmiany, szeroko rozumianej zmiany- zarówno
           pod względem zawodowym jak i tej związanej z życiem codziennym,
           wsparcia w redagowaniu dokumentów aplikacyjnych - stworzeniu,
