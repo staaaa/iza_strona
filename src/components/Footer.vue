@@ -39,9 +39,15 @@
       </div>
       <div class="column">
         <h1>TWÓRCY</h1>
-        <h2 class="creators">STANISŁAW BOZYCH</h2>
         <h2 class="creators">
-          <a target="_blank" href="jakubcierocki.pl">JAKUB CIEROCKI</a>
+          <a target="_blank" href="https://github.com/staaaa">
+            STANISŁAW BOZYCH
+          </a>
+        </h2>
+        <h2 class="creators">
+          <a target="_blank" href="http://jakubcierocki.pl/">
+            JAKUB CIEROCKI
+          </a>
         </h2>
       </div>
     </div>

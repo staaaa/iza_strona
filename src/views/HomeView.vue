@@ -25,6 +25,11 @@
         </p>
       </div>
     </div>
+    <div class="row row-single-item">
+      <img src="../static/images/srodek3.jpg" class="image-showcase" />
+      <img src="../static/images/srodek1.jpg" class="image-showcase" />
+      <img src="../static/images/srodek2.jpg" class="image-showcase" />
+    </div>
     <div class="row">
       <div class="block-text-full">
         <p class="title">Kim jestem?</p>
@@ -159,6 +164,10 @@ export default {
 }
 .row-single-item {
   align-items: center !important;
+}
+.row-single-item img {
+  max-height: 800px;
+  width: auto;
 }
 .first {
   align-items: flex-start;
